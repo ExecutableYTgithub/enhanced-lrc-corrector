@@ -1,6 +1,6 @@
 # Enhanced LRC Lyrics Corrector
 
-This is a small web-based tool that post-processes Enhanced LRC files so they display correctly in [Booming Music](https://github.com/mardous/BoomingMusic).
+This is a small web-based tool that post-processes Enhanced LRC files made with [Enhanced LRC Maker](https://schindlershadow.com/tools/LRCmaker/) so they display correctly in [Booming Music](https://github.com/mardous/BoomingMusic).
 
 ## Note: This is AI-generated code
 This tool was created entirely with the help of AI assistants, specifically Claude and Perplexity, based on my prompts and requirements.
